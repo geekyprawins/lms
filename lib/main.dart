@@ -83,7 +83,9 @@ class LandingPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const LoginScreen(role: "mentor"),
+                    builder: (context) => const
+                        // LoginScreen(role: "mentor"),
+                        MentorHome(),
                   ),
                 );
               },
@@ -105,7 +107,9 @@ class LandingPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const LoginScreen(role: "student"),
+                    builder: (context) => const
+                        // LoginScreen(role: "student"),
+                        StudentHome(),
                   ),
                 );
               },
