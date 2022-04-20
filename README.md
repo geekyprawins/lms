@@ -1,16 +1,16 @@
 # lms_edutekzila
 
-A new Flutter project.
+### Problem Statement
 
-## Getting Started
+You have to make an LMS(Learning Management System) having the basic functionalities including but not limited to Video modules in collapsed and expanded form, all basic controls of the video player, video description, and a progress tracker. There should be 2 types of login, student and mentor. The student should be able to view all the videos posted by the mentor. The videos can be posted in the form of youtube links from the mentor panel.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Cloud Firestore snapshot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/75851313/164282400-506526d1-7050-4f18-b60a-e5f87343acd8.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App working demo
+
+https://drive.google.com/file/d/1NVqJEzjtdEmBVc3KPWztXaY8kK9UESqT/view?usp=drivesdk
+
+
